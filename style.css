@@ -1,0 +1,25 @@
+* {
+    font-family: roboto, sans-serif;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container.head div {
+    border: 10px;
+    border-style: solid;
+    border-color: red;
+    background: #1F2137;
+    flex: 1;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-links {
+    color: #e5e7eb;
+    font-size: 18px;
+}
